@@ -7,8 +7,12 @@ Este es un simple juego de laberinto implementado en Java usando Swing para la i
 1. Asegúrate de tener instalado Java en tu sistema.
 2. Clona este repositorio en tu máquina local.
 3. Abre una terminal y navega hasta el directorio donde clonaste el repositorio.
-4. Para Compilar. javac MazeGame.java
-5. Para Ejecutar.
+ 
+  Para Compilar.
+  javac MazeGame.java
+
+  Para Ejecutar.
+  java MazeGame
 
    
 
