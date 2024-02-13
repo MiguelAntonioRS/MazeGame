@@ -11,7 +11,7 @@ Este es un simple juego de laberinto implementado en Java usando Swing para la i
 
 ## Captura de pantalla
 
-![](/img/MazeGame.png)
+![](MazeGame.png)
 
 ## Compilación y Ejecución
 Para compilar el juego, ejecuta el siguiente comando desde la raíz del proyecto:
