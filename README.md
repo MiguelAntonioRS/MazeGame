@@ -8,6 +8,11 @@ Este es un simple juego de laberinto implementado en Java usando Swing para la i
 2. Clona este repositorio en tu máquina local.
 3. Abre una terminal y navega hasta el directorio donde clonaste el repositorio.
 
+
+## Captura de pantalla
+
+![](/img/MazeGame.png)
+
 ## Compilación y Ejecución
 Para compilar el juego, ejecuta el siguiente comando desde la raíz del proyecto:
 ```bash
@@ -27,3 +32,4 @@ El proyecto está organizado de la siguiente manera:
     Laberinto.java: Representa el laberinto y maneja su generación y dibujo.
     Personaje.java: Representa al personaje del jugador y maneja su movimiento.
     README.md: Este archivo que estás leyendo.
+
