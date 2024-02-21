@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 /**
  *
  * @author Miguel Antonio
+ * hola
  */ 
 public class MazeGame extends JPanel {
 
