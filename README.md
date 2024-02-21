@@ -33,4 +33,5 @@ El proyecto está organizado de la siguiente manera:
     Laberinto.java: Representa el laberinto y maneja su generación y dibujo.
     Personaje.java: Representa al personaje del jugador y maneja su movimiento.
     README.md: Este archivo que estás leyendo.
-
+```
+- Demostrando el cambio 👍
