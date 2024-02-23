@@ -23,10 +23,10 @@ Para ejecutar el juego, usa el siguiente comando:
 
 java MazeGame
 ```
-Controles del Juego
+### Controles del Juego
 
-    Usa las teclas de flecha para mover al personaje a través del laberinto.
-    El objetivo es llegar al punto final del laberinto para avanzar al siguiente nivel.
+   Usa las teclas de flecha para mover al personaje a través del laberinto.
+   El objetivo es llegar al punto final del laberinto para avanzar al siguiente nivel.
 
 Estructura del Proyecto
 
