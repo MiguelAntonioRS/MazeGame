@@ -18,8 +18,11 @@ Este es un simple juego de laberinto implementado en Java usando Swing para la i
 Para compilar el juego, ejecuta el siguiente comando desde la raíz del proyecto:
 ```bash
 javac MazeGame.java
+
 Para ejecutar el juego, usa el siguiente comando:
+
 java MazeGame
+```
 Controles del Juego
 
     Usa las teclas de flecha para mover al personaje a través del laberinto.
@@ -29,8 +32,8 @@ Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
 
-    MazeGame.java: Contiene la lógica principal del juego.
-    Laberinto.java: Representa el laberinto y maneja su generación y dibujo.
-    Personaje.java: Representa al personaje del jugador y maneja su movimiento.
-    README.md: Este archivo que estás leyendo.
+   MazeGame.java: Contiene la lógica principal del juego.
+   Laberinto.java: Representa el laberinto y maneja su generación y dibujo.
+   Personaje.java: Representa al personaje del jugador y maneja su movimiento.
+   README.md: Este archivo que estás leyendo.
 
