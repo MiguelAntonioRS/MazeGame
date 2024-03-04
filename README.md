@@ -1,39 +1,39 @@
 # Maze Game
 
 ## Descripción
-Este es un simple juego de laberinto implementado en Java usando Swing para la interfaz gráfica.
+This is a simple maze game implemented in Java using Swing for the graphical interface.
 
-## Instrucciones de Uso
-1. Asegúrate de tener instalado Java en tu sistema.
-2. Clona este repositorio en tu máquina local.
-3. Abre una terminal y navega hasta el directorio donde clonaste el repositorio.
+## Usage Instructions
+1. Make sure you have Java installed on your system.
+2. Clone this repository to your local machine.
+3. Open a terminal and navigate to the directory where you cloned the repository.
    
 
-## Captura de pantalla
+## Screenshot
 
 ![MazeGame](https://github.com/MiguelAntonioRS/MazeGame/assets/159189630/0e52c2e7-ffb6-47eb-aec7-f27c6765a122)
 
 
-## Compilación y Ejecución
-Para compilar el juego, ejecuta el siguiente comando desde la raíz del proyecto:
+## Compilation and Execution
+To compile the game, run the following command from the project's root:
 ```bash
 javac MazeGame.java
-
-Para ejecutar el juego, usa el siguiente comando:
-
+```
+To run the game, use the following command:
+```
 java MazeGame
 ```
-### Controles del Juego
+Game Controls
 
-   Usa las teclas de flecha para mover al personaje a través del laberinto.
-   El objetivo es llegar al punto final del laberinto para avanzar al siguiente nivel.
+   Use the arrow keys to move the character through the maze.
+   The goal is to reach the end point of the maze to advance to the next level.
 
-Estructura del Proyecto
+Project Structure
 
-El proyecto está organizado de la siguiente manera:
+The project is organized as follows:
 
-   MazeGame.java: Contiene la lógica principal del juego.
-   Laberinto.java: Representa el laberinto y maneja su generación y dibujo.
-   Personaje.java: Representa al personaje del jugador y maneja su movimiento.
-   README.md: Este archivo que estás leyendo.
+   MazeGame.java: Contains the main logic of the game.
+   Laberinto.java: Represents the maze and handles its generation and drawing.
+   Personaje.java: Represents the player character and handles its movement.
+   README.md: This file you are reading.
 
