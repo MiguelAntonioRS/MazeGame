@@ -25,15 +25,15 @@ java MazeGame
 ```
 Game Controls
 
-   Use the arrow keys to move the character through the maze.
-   The goal is to reach the end point of the maze to advance to the next level.
+    Use the arrow keys to move the character through the maze.
+    The goal is to reach the end point of the maze to advance to the next level.
 
 Project Structure
 
 The project is organized as follows:
 
-   MazeGame.java: Contains the main logic of the game.
-   Laberinto.java: Represents the maze and handles its generation and drawing.
-   Personaje.java: Represents the player character and handles its movement.
-   README.md: This file you are reading.
+    MazeGame.java: Contains the main logic of the game.
+    Laberinto.java: Represents the maze and handles its generation and drawing.
+    Personaje.java: Represents the player character and handles its movement.
+    README.md: This file you are reading.
 
