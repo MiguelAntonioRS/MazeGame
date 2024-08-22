@@ -8,7 +8,6 @@ This is a simple maze game implemented in Java using Swing for the graphical int
 2. Clone this repository to your local machine.
 3. Open a terminal and navigate to the directory where you cloned the repository.
    
-
 ## Screenshot
 
 ![MazeGame](https://github.com/MiguelAntonioRS/MazeGame/assets/159189630/0e52c2e7-ffb6-47eb-aec7-f27c6765a122)
