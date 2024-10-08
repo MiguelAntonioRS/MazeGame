@@ -4,7 +4,7 @@
 This is a simple maze game implemented in Java using Swing for the graphical interface.
 
 ## Usage Instructions 
-1. Make sure you have Java installed on your system.
+1. Make sure you have Java installed on your system. 
 2. Clone this repository to your local machine.
 3. Open a terminal and navigate to the directory where you cloned the repository. 
    
