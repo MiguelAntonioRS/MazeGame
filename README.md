@@ -1,4 +1,4 @@
-# Maze Game
+# Maze Game 
 
 ## Description 
 This is a simple maze game implemented in Java using Swing for the graphical interface. 
