@@ -1,7 +1,7 @@
 # Maze Game 
 
 ## Description 
-This is a simple maze game implemented in Java using Swing for the graphical interface. 
+This is a simple maze game implemented in Java using Swing for the graphical interface.  
 
 ## Usage Instructions 
 1. Make sure you have Java installed on your system. 
